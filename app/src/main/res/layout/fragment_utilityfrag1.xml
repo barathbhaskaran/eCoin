@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             tools:context="com.example.vicky.e_coin.utilityfrag1">
+	<Button
+			android:text="Postpaid"
+			android:textSize="16pt"
+			android:fontFamily="monospace"
+			android:layout_width="match_parent"
+			android:layout_height="350dp"
+			android:id="@+id/postpaid"
+			android:background="@drawable/bg_aqua"
+			android:layout_margin="8dp"/>
+</FrameLayout>
+
